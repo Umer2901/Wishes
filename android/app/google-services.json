@@ -88,6 +88,114 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720819420935:android:409764acaf47fec7074fa2",
+        "android_client_info": {
+          "package_name": "com.wishes.wishes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720819420935-1biark1m5vqvlk2frt6sma2jqk0k8c25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishes.wishes_app",
+            "certificate_hash": "7fdb33c5ac07458c05422c0c850e783493b32ce0"
+          }
+        },
+        {
+          "client_id": "720819420935-3e311f79rrh0ijtkj808mtat3gala635.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishes.wishes_app",
+            "certificate_hash": "c60a9090734000af3f971c7a490fcd609cc27e50"
+          }
+        },
+        {
+          "client_id": "720819420935-7dsf04l3unlvvbo5p9ihbfndpre2ac6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishes.wishes_app",
+            "certificate_hash": "d7e4c17aa1ff6a236cea226e325d4df94a5cfd26"
+          }
+        },
+        {
+          "client_id": "720819420935-7q6rjel1fg949otq5b5aqj5utv5518ud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishes.wishes_app",
+            "certificate_hash": "ab63c435a9c1e7af587579c3f213a5c4ff39c3e8"
+          }
+        },
+        {
+          "client_id": "720819420935-918ilgp3jeq1nmc7flqf1otsjq7lucpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishes.wishes_app",
+            "certificate_hash": "56fef29a1860edce52145ce2f641d421293becdf"
+          }
+        },
+        {
+          "client_id": "720819420935-ckpfe6m8fr0kgqi4vbadmittfmocqnd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishes.wishes_app",
+            "certificate_hash": "a1b12a91441364cd1a1b8546531e87de0944c0c3"
+          }
+        },
+        {
+          "client_id": "720819420935-l6abjd8voko0oorcddps3a7tg4asi1g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishes.wishes_app",
+            "certificate_hash": "850fb2351c8a84fbd4e1447c5a6186f69b6d3e01"
+          }
+        },
+        {
+          "client_id": "720819420935-sisi7ascf2072mo1q8ftmv6dfppj255v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishes.wishes_app",
+            "certificate_hash": "b8fdd80fb3808c3078b09965a411b161e7da0803"
+          }
+        },
+        {
+          "client_id": "720819420935-vvfmp9hagj5678u2k6n4128moulvfau5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wishes.wishes_app",
+            "certificate_hash": "7d4b568bacf09610ad4ce0da5f1d0991fc9df5cc"
+          }
+        },
+        {
+          "client_id": "720819420935-4slberbicvdir3dpalningbus6pm7ovq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWl-_EwlnLM3ZAfezoHYjstI3TOyhMfmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720819420935-4slberbicvdir3dpalningbus6pm7ovq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "720819420935-7pg5vt8q9d7nq2krsbkjovguk38amt8g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wishesApp"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

@@ -313,9 +313,9 @@ class _CreatePostScreenState extends State<CreatePostScreen> {
                                             autoCloseDuration:
                                                 const Duration(seconds: 2),
                                             title:
-                                                'Image or Description Required',
+                                                Text('Image or Description Required'),
                                             description:
-                                                'Add image or description to create a post.',
+                                                Text('Add image or description to create a post.'),
                                             alignment: Alignment.topRight,
                                             direction: TextDirection.ltr,
                                             animationDuration: const Duration(

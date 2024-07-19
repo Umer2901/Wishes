@@ -200,13 +200,13 @@ class _ComposeEmailScreenState extends State<ComposeEmailScreen> {
                                                   autoCloseDuration:
                                                       const Duration(
                                                           seconds: 2),
-                                                  title: selectedUser != null
+                                                  title: Text(selectedUser != null
                                                       ? 'Description Required'
-                                                      : 'Select User',
-                                                  description: selectedUser !=
+                                                      : 'Select User'),
+                                                  description: Text(selectedUser !=
                                                           null
                                                       ? 'Add description to send the email.'
-                                                      : 'Select user to send the email.',
+                                                      : 'Select user to send the email.'),
                                                   alignment: Alignment.topRight,
                                                   direction: TextDirection.ltr,
                                                   animationDuration:

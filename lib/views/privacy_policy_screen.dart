@@ -1,5 +1,4 @@
 import 'package:wishes_app/export.dart';
-
 class PrivacyPolicyScreen extends StatelessWidget {
   const PrivacyPolicyScreen({super.key});
 
